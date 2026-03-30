@@ -2,21 +2,21 @@
 
 **Mechanical Engineering Student | Innovator | Lifelong Learner**  
 
-I'm currently pursuing my Mechanical Engineering degree at **Jain University**. I love exploring new technologies, solving problems with engineering, and building projects that combine creativity and functionality.  
+I am currently pursuing my Mechanical Engineering degree at **Jain University**. I enjoy exploring new technologies, solving engineering problems, and developing projects that combine creativity with practical solutions.
 
 ---
 
-## 🔭 What I’m Working On
+## 🔭 Currently Working On
 - Mechanical design and CAD modeling projects
-- Beginner-level programming for automation and simulations
-- Personal projects to improve problem-solving skills in engineering  
+- Programming for automation and simulations
+- Personal projects to enhance problem-solving and engineering skills
 
 ---
 
-## 🌱 I’m Currently Learning
+## 🌱 Currently Learning
 - SolidWorks & AutoCAD for mechanical designs
 - Python and MATLAB for simulations
-- Basics of robotics and IoT  
+- Basics of Robotics and IoT
 
 ---
 
@@ -28,11 +28,6 @@ I'm currently pursuing my Mechanical Engineering degree at **Jain University**. 
 
 ---
 
-## 📫 How to Reach Me
-- LinkedIn: [Tenzin Gawa]([https://www.linkedin.com](https://www.linkedin.com/in/tenzin-gawa-0b90a5305/))  
+## 📫 Connect With Me
+- LinkedIn: [Tenzin Gawa](https://www.linkedin.com/in/tenzin-gawa-0b90a5305/)  
 - Email: `gawatenzin111@gmail.com`  
-
----
-
-## 📊 GitHub Stats
-![Tenzin's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical
